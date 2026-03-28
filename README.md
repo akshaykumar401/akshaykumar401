@@ -16,17 +16,12 @@
 
 <!-- ===================== STATS ===================== -->
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshaykumar401&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar401&theme=tokyonight&hide_border=true" />
-</p>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar401&theme=tokyonight&hide_border=true" />
 
 <!-- ===================== LANGUAGES ===================== -->
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar401&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaykumar401&theme=tokyonight" />
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaykumar401&theme=tokyonight" />
+
 
 <!-- ===================== TROPHIES ===================== -->
 
@@ -44,14 +39,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshaykumar401&theme=tokyonight" />
-</p>
-
-<!-- ===================== SNAKE ANIMATION ===================== -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshaykumar401/akshaykumar401/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- ===================== VISITOR COUNTER ===================== -->
