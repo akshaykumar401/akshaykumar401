@@ -15,7 +15,7 @@
 ## 📊 GitHub Dashboard
 
 
-<div style="center">
+<div align="center">
   <!-- ===================== STATS ===================== -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar401&theme=tokyonight&hide_border=true" />
   <!-- ===================== LANGUAGES ===================== -->
