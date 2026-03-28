@@ -6,6 +6,13 @@
 🤝 Connect Me in Linked In [Link](https://www.linkedin.com/in/akshay-kumar-2512b529a/) <br />
 
 
+## ⭐ Followers & Stars
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/akshaykumar401?style=social" />
+  <img src="https://img.shields.io/github/stars/akshaykumar401?style=social" />
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshay-kumar-2512b529a/) 
 
@@ -17,9 +24,9 @@
 
 <div align="center">
   <!-- ===================== STATS ===================== -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar401&theme=tokyonight&hide_border=true" />
+  <img width="58%"src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar401&theme=tokyonight&hide_border=true" />
   <!-- ===================== LANGUAGES ===================== -->
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaykumar401&theme=tokyonight" />
+  <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaykumar401&theme=tokyonight" />
 </div>
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
@@ -27,18 +34,28 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar401&theme=tokyo-night" />
 </p>
-
 <!-- ===================== PROFILE SUMMARY ===================== -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshaykumar401&theme=tokyonight" />
 </p>
 
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/akshaykumar401" />
+</p>
 <!-- ===================== VISITOR COUNTER ===================== -->
+
+## 📈 Contribution Details
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshaykumar401&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshaykumar401&theme=github_dark" />
+</p>
 
 ## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshaykumar401&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
