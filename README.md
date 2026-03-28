@@ -1,13 +1,10 @@
 # Hi there 👋, I'm **Akshay Kumar**
 
----
-
 ## 🚀 About Me
 🧠 **Computer Science Engineering** Student at SBU, Ranchi. <br />
 📫 How to reach me: **akshaykumar835103@email.com** <br />
 🤝 Connect Me in Linked In [Link](https://www.linkedin.com/in/akshay-kumar-2512b529a/) <br />
 
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshay-kumar-2512b529a/) 
