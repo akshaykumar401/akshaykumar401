@@ -14,20 +14,13 @@
 
 ## 📊 GitHub Dashboard
 
-<!-- ===================== STATS ===================== -->
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar401&theme=tokyonight&hide_border=true" />
-
-<!-- ===================== LANGUAGES ===================== -->
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaykumar401&theme=tokyonight" />
-
-
-<!-- ===================== TROPHIES ===================== -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar401&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<div style="center">
+  <!-- ===================== STATS ===================== -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar401&theme=tokyonight&hide_border=true" />
+  <!-- ===================== LANGUAGES ===================== -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaykumar401&theme=tokyonight" />
+</div>
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 
