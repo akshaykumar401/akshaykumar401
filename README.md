@@ -117,7 +117,9 @@
 <br />
 
 <h2 align="center">📊 GitHub Dashboard</h2>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar401&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaykumar401&theme=tokyonight" alt="Productive Time" />
