@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there%20👋,%20I'm%20Akshay%20Kumar&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20|%20AI%20&%20Machine%20Learning%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe!;💻+Building+modern,+scalable+software+applications;📱+Developing+intuitive+and+high+-+performance+mobile+apps;🤖+Exploring+AI,+Machine+Learning,+and+intelligent+automation;Always+Learning+New+Technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Welcome%20to%20my%20Digital%20Universe!%3BBuilding%20modern%2C%20scalable%20software%20applications%3BDeveloping%20intuitive%20and%20high-performance%20mobile%20apps%3BExploring%20AI%2C%20Machine%20Learning%2C%20and%20automation%3BAlways%20Learning%20New%20Technologies!&v=2" alt="Typing SVG" />
 </div>
 
 <div align="center">
