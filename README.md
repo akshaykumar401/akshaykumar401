@@ -117,27 +117,17 @@
 <br />
 
 <h2 align="center">📊 GitHub Dashboard</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar401&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaykumar401&theme=tokyonight" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshaykumar401&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshaykumar401&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshaykumar401&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=akshaykumar401&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=akshaykumar401&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <br />
 
 <h2 align="center">📅 GitHub Activity & Contributions</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar401&theme=tokyo-night" alt="Activity Graph" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/akshaykumar401" alt="Contribution Calendar" width="100%" />
