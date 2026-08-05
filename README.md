@@ -118,7 +118,6 @@
 
 <h2 align="center">📊 GitHub Dashboard</h2>
 
-
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=akshaykumar401&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=akshaykumar401&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
@@ -128,6 +127,9 @@
 
 <h2 align="center">📅 GitHub Activity & Contributions</h2>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar401&theme=tokyo-night" alt="Activity Graph" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/akshaykumar401" alt="Contribution Calendar" width="100%" />
